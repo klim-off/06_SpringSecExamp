@@ -1,4 +1,4 @@
-package com.klimov.SpringSecExamp;
+package com.klimov.SpringSecExamp.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

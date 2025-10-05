@@ -1,4 +1,4 @@
-package com.klimov.SpringSecExamp;
+package com.klimov.SpringSecExamp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
